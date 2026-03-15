@@ -1,585 +1,1519 @@
-MovistarLaLiga(Spanish).es
-FOX.(WNYW).New.York,.NY.us
-Kanal4.dk
-Eurosport.2.HD.uk
-La.Sexta.es
-Prima.Sport.3.ro
-BTV.Lady.bg
-ABC.(WABC).New.York,.NY.us
-RTE1Network.uk
-Sky.Sport.9.nz
-Showtime.Extreme.-.Eastern.us
-NDR.de
-MavTV.USA.us
-The.Tennis.Channel.us
-ESPN.2.nl
-TV3Sport1(src01).dk
-CMTV.HD.pt
-VICE.us
-Animal.Planet.US.-.East.us
-Motowizja.pl
-SPORT.TV3.HD.pt
-Eurosport.1.it
-BarcaTV(Catalan).es
-HBO.Zone.HD.-.East.us
-SkyAnimationHD.uk
-NHL.Network.USA.us
-Oxygen.-.Eastern.Feed.us
-WDR.de
-SundanceTV.USA.-.East.us
-Sky.Sport.8.nz
-Sport.5.HD.(55).il
-Sky.Sport..256.it
-Nova.TV.bg
-Discovery.Life.Channel.us
-RaiSport.it
-Sky.Sport.F1.it
-FanDuel.Sports.Network.Ohio.-.Cleveland.us
-Cartoon.Network.USA.-.Eastern.Feed.us
-TBS.-.East.us
-SKY.Sport.F1.de
-DAZN.2.es
-FETV.(Family.Entertainment.Television).us
-BET.-.Eastern.Feed.us
-Sky.Cinema.Drama.it
-ESPN2.us
-SPORT1+.de
-SkySpMainEv.uk
-Teledeporte.es
-beIN.SPORTS.3.fr
-beIN_SPORTS_XTRA1_Digital_Mono_EN.bein
-TVO.(TV.Ontario).HD.ca
-Univision.-.Eastern.Feed.us
-FanDuel.Sports.Network.Florida.us
-Sport.1.HD.il
-TVP.Info.pl
-SHOXBET.-.Eastern.us
-Sportsnet.World.ca
-C.More.Series.se
-M6.fr
-Sport.5+.HD.(56).il
-Sky.Cinema.Family.it
-BNT2(src01).bg
-Golf.Channel.USA.us
-SPORTV.2.br
-UniMás..-.Network.Pacific.us
-Channel.5.uk
-MDR.de
-CANAL+.MOTOGP.fr
-FoxSports2(Argentina).ar
-Beinsports.4.tr
-BBC.World.News.North.America.(BBCWN).us
-HBO.-.Eastern.Feed.us
-Canal+.Foot.fr
-SPORTV.br
-MTV.dk
-Sky.Showcase.uk
-Sportsnet.(East).-.Satellite/Digital.ca
-FanDuel.Sports.Network.Southeast.us
-ION..-.Eastern.Feed.us
-New.England.Sports.Network.us
-Fox.Deportes.us
-Canal+.Sport.360.fr
-DAZN.4.es
-Rally.TV.de
-Cytavision.Sports2.HD.cy
-Premiere..br
-DIEMA.SPORT.3.bg
-ViaplayXtra.uk
-Prima.TV.ro
-yes.Movies.Kids.il
-FOX.(KTTV).Los.Angeles,.CA.us
-Global.BC.ca
-NBC.Sports.us
-Sky.Sport.7.nz
-TV2(src01).dk
-beIN.SPORTS.MAX.7.fr
-Sky.Sport..253.it
-Sky.Serie.it
-Novasports2.gr
-Beinsports.2.tr
-CANAL+.Family.pl
-Magnolia.-.East.us
-Sky.Sport..254.it
-beINSports.us
-TNT(Portuguese).br
-SkySp.Mix.HD.uk
-Willow.Cricket.HDTV.(WILLOWHD).us
-NBA.TV.USA.us
-Sky.Sport.Uno.it
-Antena.3.es
-FYI.USA.-.Eastern.us
-LFCTV.HD.uk
-Cytavision.Sports1.HD.cy
-VTV.+.HD.uy
-ITV4.HD.uk
-DAZN.2.de
-Sky.Sport.Golf.it
-RTE2.uk
-Eleven.Sports.1.pl
-Sky.Sport24.it
-Ziggo.Sport.2.nl
-Sky.Cinema.Romance.it
-DIEMA.SPORT.bg
-COSMOTE.Sport.5.HD.gr
-Arena.Sport.1.HD.hr
-IFC.HDTV.(East).us
-ReelzChannel.us
-History.Channel.US.-.Eastern.Feed.us
-Altitude.Sports.-.Denver.us
-beIN.SPORTS.1.fr
-TVN.HD.pl
-MAXSport4(src01).bg
-Polsat.Sport.News.HD.pl
-WWE.Network.us
-CBS.(KCBS).Los.Angeles,.CA.us
-Novasports6.gr
-SRFernsehen(src01).de
-MSNBC.USA.us
-V.Film.Premiere.se
-Discovery.Channel.(US).-.Eastern.Feed.us
-Novasports.Premier.League.gr
-STAR.SPORTS.1.HINDI.in
-SkySp.Action.uk
-ESPN.us
-ElevenSports5(src01).pt
-TVP.2.pl
-CookingChannel.us
-DIEMA.SPORT.2.bg
-Science.us
-Eurosport.1.es
-SAT.1.de
-CANAL+.SPORT.fr
-SPORT.TV1.HD.pt
-FoxSports503.au
-beIN.SPORTS.MAX.10.fr
-ESPN.br
-AXS.TV.USA.HD.us
-CANAL+.fr
-ElevenSports2(src01).pt
-TV3Max(src01).dk
-MAXSport3(src01).bg
-Sky.Crime.HD.uk
-RTL.de
-Bravo.USA.-.Eastern.Feed.us
-Sky.Sport.Arena.it
-Discovery.Family.Channel.us
-Sky.Sport.Bundesliga.1.de
-Sky.Cinema.Hits.HD.uk
-Fox.Sports.2.us
-3sat.de
-Mzansi.Magic.HD.za
-E!.Entertainment.USA.-.Eastern.Feed.us
-Sky.Cinema.Collection.it
-Beinsports.3.tr
-ESPN.3.br
-M+.Vamos.es
-MTV.HD.uk
-Prima.Sport.2.ro
-Turner.Classic.Movies.USA.us
-Eurosport.2.pl
-RTL.7.nl
-Sky.Sport.Mix.de
-Eleven.Sports.2.pl
-Diema.bg
-Sportsnet.(Ontario).ca
-SkySp.Tennis.HD.uk
-Eurosport.2.es
-FXX.USA.-.Eastern.us
-MplusDEPORTES3(src01).es
-Prima.Sport.4.ro
-SkySp.Fball.uk
-CNN.us
-RTP.2.HD.pt
-MTV.USA.-.Eastern.Feed.us
-HR.de
-MovistarLigadeCampeones(Spanish).es
-Destination.America.us
-Sky.Cinema.Comedy.it
-TVA.Sports.3.ca
-Polsat.News.pl
-FanDuel.Sports.Network.Oklahoma.us
-MGM+.HDTV.(East).(MGM+HD).us
-COSMOTE.Sport.7.HD.gr
-WEtv.us
-ElevenSports4(src01).pt
-FoxLeague.au
-Kyk.NET.&amp;.Kie.HD.za
-Showtime.Next.HD.-.Eastern.us
-COSMOTE.Sport.1.HD.gr
-Polsat.Sport.Extra.pl
-SWR/SR.de
-Sky.Comedy.Cinema.uk
-Sky.HistoryHD.uk
-MASN.us
-Sport.3.HD.il
-Lifetime.Network.US.-.Eastern.Feed.us
-LALIGA.TV.HYPERMOTION.es
-CMT.US.-.Eastern.Feed.us
-CTV.(CFCN).Calgary,.AB.ca
-TVP.1.pl
-TheTravelChannel.us
-ESPN.News.us
-Film4.HD.uk
-Sky.Family.HD.uk
-Cinemax.-.Eastern.Feed.us
-Sport.4.HD.il
-TMC.(US).-.Eastern.Feed.us
-GOLD(src01).uk
-FashionTV(src01).uk
-DAZN.1.es
-CNBC.USA.us
-SPORTV.3.br
-Fox.News.us
-CANAL+.Seriale.pl
-TLC.USA.-.Eastern.us
-MovistarPlusplus(src01).es
-Sport.5.Gold.(57).il
-Astro.Cricket.my
-Sportsnet.(West).-.Satellite/Digital.ca
-kabel.eins.de
-Sky.Sport.1.nz
-Smithsonian.Channel.USA.HD.us
-Polsat.pl
-SNY:.SportsNet.New.York.(Comcast).us
-vodasport(src01).is
-DAZN.F1.es
-Nicktoons.-.East.us
-Sky.Cinema.Select.uk
-MSG.-.Syracuse.us
-Galavision.-.Eastern.Feed.us
-TV2Zulu(src01).dk
-MplusDEPORTES2(src01).es
-SkySp.Golf.uk
-Sky.Arts.HD.uk
-DAZN.LALIGA.es
-Novasports3.gr
-Showtime.2.-.Eastern.us
-Novasports.Start.gr
-TSN1.ca
-The.Fight.Network.(United.States).(TFN).us
-Fox.Business.us
-V.Sport.Motor.se
-Lifetime.Movies.-.East.us
-Canal.11.HD.pt
-Arena.Sport.2.HD.hr
-COSMOTE.Sport.3.HD.gr
-COSMOTE.Sport.8.HD.gr
-C.More.Hits.se
-RMC.Sport.1.fr
-FoxSports505.au
-HBO.Comedy.HD.-.East.us
-SkySp.Racing.uk
-bTVAction(src01).bg
-Sky.Drama.HD.uk
-COSMOTE.Sport.2.HD.gr
-Telemundo..-.Eastern.Feed.us
-Cytavision.Sports5.HD.cy
-Willow.Xtra.us
-Veronica.nl
-Eurosport.2.it
-Sky.Sport..252.it
-Dave(src01).uk
-HBO.2.-.Eastern.Feed.us
-FoxSports3(Argentina).ar
-PTV.Sports.pk
-TV3plus(src01).dk
-Hallmark.-.Eastern.Feed.us
-Telecinco.es
-yes.Movies.Comedy.il
-CANAL+.Sport.5.pl
-AdultSwim.com.Cartoon.Network.us
-TNT.-.Eastern.Feed.us
-Sportsnet.360.ca
-MLB.Network.us
-HBO.pl
-Spectrum.Sportsnet.Lakers.us
-beIN.SPORTS.MAX.6.fr
-RTP.3.HD.pt
-bTV.bg
-A.and.E.US.-.Eastern.Feed.us
-Eurosport1.fr
-Cytavision.Sports4.HD.cy
-LA.1.es
-CANAL+.PREMIUM.pl
-MUTV.HD.uk
-HLN.us
-FanDuel.Sports.Indiana.us
-POP.-.East.us
-Globo.Rio.br
-SkySp.Cricket.uk
-CBS.Sports.Network.USA.us
-Game.Show.Network.-.East.us
-FOXWeather.us
-BenficaTVMulticamaras(src01).pt
-Rai3.it
-Sky.Greats.uk
-beIN.SPORTS.MAX.9.fr
-Diema.Family.bg
-CleoTV.us
-RealMadridTV(Spanish).es
-YES.Network.us   
-Nickelodeon.USA.-.East.Feed.us
-Disney.-.Eastern.Feed.us
-ElevenSports3(src01).pt
-Starz.-.Eastern.us
-M-Net.HD.za
-SUPER.RTL.de
-BBC.Three.HD.uk
-RDS.Info.ca
-SPORT.TV4.HD.pt
-Sky.Sport.2.nz
-Space.City.Home.Network.us
-AMC.-.Eastern.Feed.us
-TV.One.us
-ESPN.2.br
-beIN.SPORTS.MAX.8.fr
-Me.TV.us
-Food.Network.USA.-.Eastern.Feed.us
-SPORT.TV5.HD.pt
-ElevenSports1(src01).pt
-FOXSPORTS.ar
-SkySp.F1.uk
-Great.American.Family.us
-CTV.Speed.ca
-Combate..br
-ESPN.4.br
-BBCOne.uk
-Sky.Atlantic.HD.uk
-ITV3.HD.uk
-Boomerang.us
-Sport.5.Stars.HD.(59).il
-CTV2.Toronto,.ON.ca
-beINSports1.au
-RTP.1.HD.pt
-COZITV.us
-National.Geographic.Wild.us
-Oprah.Winfrey.Network.USA.Eastern.us
-Italia.1.it
-FanDuel.Sports.Network.Midwest.St..Louis.us
-DR1.dk
-TNT.Sports.3.HD.uk
-ZDFinfo.de
-STAR.SPORTS.1.in
-Hallmark.Mystery.Eastern.-.HD.us
-DAZN.LALIGA.2.es
-TSN2.ca
-Channel4.uk
-Sky.Sport.Austria.1.HD.de
-COSMOTE.Sport.9.HD.gr
-FanDuel.Sports.Network.North.us
-COSMOTE.Sport.6.HD.gr
-Sky.Sport.Tennis.de
-TV2bornholm(src01).dk
-American.Heroes.Channel.us
-ESPN.1.nl
-TV.Land.-.Eastern.us
-ITV1.HD.uk
-Sky.Premiere.uk
-Sportsnet.One.ca
-ESPN.Deportes.us
-FOX.Channel.bg
-Root.Sports.Northwest.us
-Marquee.Sports.Network.us
-SPORT.TV6.HD.pt
-Rai2.it
-Investigation.Discovery.USA.-.Eastern.us
-La.chaine.l’Équipe.fr
-TNT.Sports.1.HD.uk
-SIC.HD.pt
-Cuatro.es
-FoxFooty.au
-Sky.Sport.Select.nz
-Rai1.it
-MplusDEPORTES(src01).es
-Canal.TyC.Sports.ar
-Kanal5.dk
-TSN4.ca
-Eurosport.2.bg
-BBC.Two.HD.uk
-AXN.Movies.HD.pt
-SPORT1.de
-Grit.us
-Sport.5.Live.HD.(58).il
-Eurosport.1.pl
-TVA.Sports.ca
-Eleven.Sports.3.pl
-FanDuel.Sports.Network.West.us
-Novasports4.gr
-Big.Ten.Network.us
-Novasports5.gr
-SkySportsArena.uk
-MplusDEPORTES4(src01).es
-FanDuel.Sports.Network.SoCal.us
-NFL.Network.us
-Sky.ScFi/HorHD.uk
-FX.Movie.Channel.us
-Law.and.Crime.us
-Sky.Sport.4.nz
-TVI.Reality.HD.pt
-DAZN.1.de
-SPORT.TV2.HD.pt
-Eurosport.1.HD.uk
-beIN_SPORTS_XTRA2_Digital_Mono_EN.bein
-E4.HD.uk
-FilmBox.Premium.HD.pl
-ONE2.HD.il
-20(Italian).it
-Digi.Sport.1.ro
-Nick.Jr..-.East.us
-beINSports3.au
-RDS2(src01).ca
-5.USA.uk
-Cytavision.Sports3.HD.cy
-ProSieben.de
-Sky.Sport.3.nz
-FanDuel.Sports.Network.Wisconsin.us
-SBS.6.nl
-ERT1.DTT-1.gr
-beIN.SPORTS.2.fr
-Comedy.Central.(US).-.Eastern.Feed.us
-TNT.Sports.2.HD.uk
-BNT.3.bg
-TSN3.ca
-RMC.Sport.2.fr
-Disney.Junior.USA.-.East.us
-TSN5.ca
-Sky.Cinema.Suspense.it
-Ring.BG.bg
-Sky.Cinema.Uno.+24.it
-CANAL+.Sport.2.pl
-CBS.(WCBS).New.York,.NY.us
-Cytavision.Sports6.HD.cy
-Sky.Sport.Calcio.it
-FUSE.TV.-.Eastern.feed.us
-Digi.Sport.2.ro
-SkySp.News.HD.uk
-Sky.Cinema.Uno.it
-Freeform.-.East.Feed.us
-Sky.Sport.MotoGP.it
-CANAL+.FORMULA1.fr
-Showtime.FamilyZone.(East).(SHOFe).us
-Cytavision.Sports7.HD.cy
-Eurosport2.fr
-LA.2.es
-The.Weather.Channel.us
-BBC.Four.HD.uk
-beINSports2.au
-Arena.Sport.3.HD.hr
-National.Geographic.US.-.Eastern.us
-Showtime.Showcase.HD.-.East.us
-Digi.Sport.4.ro
-NBC.Sports.California.us
-MAXSport1(src01).bg
-Sky.Cinema.Action.it
-HBO.Signature.(HBO.3).-.Eastern.us
-LA7.HD.it
-FX.Networks.East.Coast.us
-MAXSport2(src01).bg
-C.More.Fotboll.se
-ACC.Network.us
-Fanduel.Sports.Sun.us
-Monumental.Sports.Network.us
+goblock_zyz
+TV1
+TV1
+TV1
+TV2
+TV2
+TV3
+TV3
+TV6
+Jom Ngaji.my
+RTMParlimen
+AlQuranAlKareemTV.sa
+AlSunnahAlNabawiyahTV.sa
+AstroPrima
+AstroOasis
+DramaChannel.sg
+TVAlhijrah
+TVAlhijrah
+AwesomeTV
+OKEY
+OKEY
+TVS
+FilemMantap
+DramaHebat
+DramaHotpot
+LawakSentral
+Sukan RTM
+AstroArena
+AstroArena2
+AstroGrandstand
+813.astro
+AstroFootball
+816.astro
+AstroSportsPlus
+AstroSportsUHD
+AOTGLive1
+AOTGLive1
+AOTGLive2
+AOTGLive2
+beINSports
+beINSports
+AstroCricket
+AstroCricketPlus
+PremierSports
+GolfChannel
+Hub Premier 2 (4K).sg
+Hub Premier 1.sg
+Hub.Premier.2.sg
+Hub.Premier.3.sg
+Hub Premier 4.sg
+Hub Sports 1 HD.sg
+Hub Sports 2 HD.sg
+Hub Sports 3 HD.sg
+Hub Sports 4 HD.sg
+Hub Sports 5 HD.sg
+SONY SPORTS TEN 1.in
+SONY SPORTS TEN 2.in
+SONY SPORTS TEN 3.in
+SONY SPORTS TEN 5.in
+W-Sport
+TNT Sports 1 HD.uk
+TNT Sports 2 HD.uk
+TNT Sports 3 HD.uk
+TNT Sports 4 HD.uk
+Sky Sports Football HD.uk
+Sky Sports Main Event HD.uk
+Sky Sports Premier League HD.uk
+Sky Sports Mix HD.uk
+Sky Sports Arena.uk
+Sky Sports News HD.uk
+Sky Sports Cricket.uk
+Sky Sports Tennis HD.uk
+Sky Sports F1 HD.uk
+Sky Sports Golf HD.uk
+Sky Sports Racing.uk
+502.astro
+502.astro
+503.astro
+503.astro
+511.astro
+511.astro
+512.astro
+512.astro
+513.astro
+513.astro
+517.astro
+517.astro
+514.astro
+514.astro
+515.astro
+515.astro
+516.astro
+516.astro
+518.astro
+521.astro
+521.astro
+522.astro
+522.astro
+501.astro
+501.astro
+TVBClassic
+AstroAEC
+AstroShuangXing
+TVBJade
+AstroAODHD
+CTIAsia
+iQIYI
+TVBXingHe
+TVBSAsia
+PhoenixChineseChannel
+AstroHuaHeeDai
+CCTV4
+AstroAOD352
+311.astro
+GALAXY PREMIUM.id
+GALAXY.id
+IMC
+Cinema World.id
+Thrill.id
+AstroVellithirai
+AstroVellithirai
+Bollywood.HD.distro
+plex.tv.Action.Hollywood.Movies.plex
+Shemaroo.Bollywood.in
+241.astro
+241.astro
+ZeeCinema
+ZeeCinema
+KTV
+309.astro
+CCM
+401.astro
+413.astro
+AMC+.us2
+MGM+.HD.us2
+MGM+.Drive-In.us2
+MGM+.Hits.HD.us2
+MGM+.Marquee.HD.us2
+USA.Network.HD.us2
+100.astro
+MN+ HD.in
+MNX HD.in
+Movies Now HD.in
+Romedy Now.in
+Sky Cinema Premiere HD.uk
+Sky Cinema Select HD.uk
+Sky Cinema Hits HD.uk
+Sky Cinema Greats HD.uk
+Sky Cinema Animation.uk
+Sky Cinema Family HD.uk
+Sky Cinema Action HD.uk
+416.astro
+Studio Universal.id
+Originals.id
+Buddy Star.id
+Cineedge.id
+Superrix.id
+Uniques.id
+AstroShowcase
+ROCKAction
+ROCKXStream
+AstroShowtime
+HBO.id
+Cinemax.id
+HBO Family.id
+HBO Hits.id
+Hallmark.Mystery.HD.us2
+AMC (East).us
+HBO.East.us2
+HBO.Zone.HD.us2
+HBO2.HD.us2
+Showtime.2.HD.us2
+Showtime.Extreme.HD.us2
+Showtime.Showcase.HD.us2
+Paramount.Network.HD.us2
+Syfy.HD.us2
+Cinemax.HD.us2
+FX.Movie.Channel.HD.us2
+HBO.Comedy.HD.us2
+HBO Family  Eastern Feed HD.us
+MGM+.HD.us2
+Showtime.Familyzone.HD.us2
+214.astro
+ColorsHD
+211.astro
+211.astro
+SunMusic
+AstroVaanavil
+214.astro
+SunLife
+StarVijay
+ColorsTamilHD
+ZeeTamilHD
+Arirang
+BabyFirst.TV.us2
+AniPlus.sg
+603.astro
+328
+328
+CartoonNetwork
+Nickelodeon
+NickJr
+MoonbugKids
+CBeebies
+Disney.XD.HD.us2
+ADITHYA TV.sg
+Sun TV.sg
+Vannathirai.sg
+Preview Channel.sg
+Channel 5 HD.sg
+Channel 8 HD.sg
+Suria HD.sg
+Vasantham HD.sg
+CNA.(HD).sg
+Channel U HD.sg
+Hub E City HD.sg
+Citra Entertainment.sg
+Karisma.sg
+Astro Warna HD.sg
+Astro Sensasi HD.sg
+Zee TV.sg
+Sony Entertainment Television.sg
+SONY MAX.sg
+ANC.sg
+Cinema One Global.sg
+TV5MONDE HD.sg
+DW English HD.sg
+Hub Sports 1 HD.sg
+Hub Sports 2 HD.sg
+Hub Sports 3 HD.sg
+Hub Sports 4 HD.sg
+Hub Sports 5 HD.sg
+Hub Sports 6.sg
+Hub Sports 7.sg
+HubSports8.sg
+SPOTV.sg
+SPOTV2.sg
+beIN Sports 2 HD.sg
+beIN Sports 2 HD.sg
+beIN Sports 3.sg
+beIN Sports 4.sg
+beIN Sports 5.sg
+Hub Premier 1.sg
+Hub Premier 2 (4K).sg
+Hub Premier 3.sg
+Hub Premier 4.sg
+Hub Premier 5.sg
+Hub Premier 6.sg
+Hub Premier 8.sg
+Cbeebies HD.sg
+Nick Jr.sg
+DreamWorks Channel HD.sg
+Nickelodeon Asia HD.sg
+Cartoon Network.sg
+Cartoonito HD.sg
+HISTORY HD.sg
+Crime + Investigation HD.sg
+BBC Earth HD.sg
+Discovery HD.sg
+Travelxp HD.sg
+BBC Lifestyle.sg
+HGTV.sg
+FashionTV HD.sg
+ABC Australia HD.sg
+ROCK Entertainment.sg
+AXN HD.sg
+Hits HD.sg
+Lifetime HD.sg
+HBO Hits HD.sg
+Animax HD.sg
+HBO Family HD.sg
+HBO HD.sg
+HBO Family HD.sg
+HBO HD.sg
+Cinemax HD.sg
+BBCNews.uk@AsiaPacific
+Fox News Channel.sg
+Sky News HD.sg
+Euronews HD.sg
+CNBC HD.sg
+Bloomberg Television HD.sg
+CNN HD.sg
+CGTN.sg
+France24.sg
+CCTV4Asia.cn
+Phoenix Chinese Channel HD.sg
+ONE HD.sg
+TVBSNews.tw
+NHK WORLD - JAPAN HD.sg
+KBS World HD.sg
+Arirang TV HD.sg
+ONE HD.sg
+Hub E City HD.sg
+TVBS Asia.sg
+Dragon TV.sg
+TVB Jade HD.sg
+Hub VVDrama.sg
+TVB Xing He.sg
+Celestial Movies HD.sg
+CCM.sg
+NBT.th
+ThaiPBS.th
+ALTV.th
+TV5 HD.th
+T Sports 7.th
+TPTV.th
+TNN16.th
+JKN 18.th
+Nation TV.th
+Workpoint.th
+True4U.th
+GMM 25.th
+CH8.th
+Mono 29.th
+MCOT HD.th
+ONE31 HD.th
+Thairath TV.th
+3HD.th
+AmarinTV HD.th
+CH7 HD.th
+PPTV HD.th
+PPTVHD.th
+ALTV.th
+Channel5.th
+Channel7.th
+AmarinTV.th
+Channel3.th
+GMM25.th
+JKN18.th
+MCOTHD.th
+MONO 29
+NBT2HD.th
+One31.th
+ThaiPBS.th
+ThairathTV.th
+TNN16.th
+NationTV.th
+WorkpointTV.th
+Arirang
+RTB_SUKMAINDERA
+RTB_ANEKA
+RTB_GOLIVE
+KBSWorld
+ONE
+tvN
+K-Plus
+tvNMovies
+KRBD1400001ED
+KRBC8000128W
+KRBB42000061Z
+KRBC5000016BM
+KRBC20000418
+KRBC3200013UR
+KRBC3200032ZM
+KRBC3200014XZ
+KRBC32000248R
+KRBC32000156C
+KRBC3200016H1
+KRBB4200009C3
+KRBC4600004BQ
+KRBC46000173Y
+KRBC3200017JQ
+KRBC3200018FU
+KRBB5000073UD
+KRBC50000228B
+KRBC3200030BO
+KRBB50000711L
+KRBB4200005CK
+KRBC3200031KO
+KRBB5000070U4
+KRBD2000001BN
+KRBB420000180
+KRBC4400002AO
+KRBC20000347
+KRBC4400001TZ
+KRBB420001572
+KRBB5000069BS
+KRBB4200002MM
+KRBB4200003ZL
+KRBB50000721W
+KRBB4200008PR
+KRBC200002I0
+KRBB4200011RB
+KRBB4200012PV
+KRBB42000100V
+KRBB4200014MY
+KRBC46000014A
+KRBC32000261J
+KRBC3200027ED
+KRBC3200025QG
+KRBC2000010X
+KRBB4200004RA
+KRBC200005H6
+KRBB420000769
+KRBB4200013L5
+KRBB4200016TZ
+KRBB4200017HA
+KRBB4200018FT
+KRAH1801500A
+KRBC3200010XJ
+KRAH4602000A
+KRBC3200005SH
+KRBB500039Y5
+KRBB500044GP
+KRBC800013YF
+KRBC5000020AF
+KRBC5000019FB
+KRBC50000218R
+KRBC5000015F5
+KRBC5000018O9
+NHKWorldPremium
+DW
+France24
+MTVAsia
+LoveNature
+LoveNature
+LoveNature
+DiscoveryChannel
+DiscoveryAsia
+BBCEarth
+History
+6408ae8f9b39550008caf94f
+CrimeInvestigation
 Crime.and.Investigation.Network.USA.HD.us
-FOX.Soccer.Plus.us
-BNT.bg
-FoxSportsPremium(Spanish).mx
-Sky.Action.uk
-TUDN.us
-yes.Movies.Action.il
-FanDuel.Sports.Network.South.us
-Porto.Canal.HD.pt
-Sky.Comedy.HD.uk
-Fox.Sports.1.us
-ESPN.U.us
-S4C.uk
-Comet.us
-TVP.Sport.pl
-Universal.Kids.us
-C-SPAN.us
-NewsMax.TV.us
-Viaplay1(src01).uk
-RDS.(Réseau.des.sports).ca
-Novasports.Prime.gr
-Sky.Sport.5.nz
-Prima.Sport.1.ro
-TVI.HD.pt
-Nick.Music.(NICM).us
-V.Film.Family.se
-HBO.Latino.(HBO.7).-.Eastern.us
-FanDuel.Sports.Network.San.Diego.us
-Sky.Sport.Top.Event.de
-Ziggo.Sport.nl
-Viaplay2(src01).uk
-Sky.Sport..255.it
-Sport.2.HD.il
-Novasports1.gr
-ONE.HD.il
-Sky.Sport.Max.it
-Globo.SP.HD.br
-Motor.Trend.HD.us
-Beinsports.tr
-TF1.fr
-NewsNation.-.Eastern.Feed.us
-Racing.TV.uk
-VH1.-.Eastern.Feed.us
-TVN.24.pl
-Court.TV.US.us
-Noovo.(CFJP).Montreal,.QC.ca
-DR2.dk
-Sky.Sport.6.nz
-Bandsports.HD.br
-Paramount.Network.USA.-.Eastern.Feed.us
-Sky.Witness.HD.uk
-GOL.PLAY.es
-6eren.dk
-FanDuel.Sports.Network.Great.Lakes.us
-truTV.USA.-.Eastern.us
-COSMOTE.Sport.4.HD.gr
-TV2Sport(src01).dk
-TeenNick.-.Eastern.us
-sixx.de
-SportsNet.Pittsburgh.us
-beIN.SPORTS.MAX.5.fr
-ITV2.HD.uk
-TNT.Sports.4.HD.uk
-beIN.SPORTS.MAX.4.fr
-SEC.Network.us
-Ziggo.Sport.4.nl
-Azteca.(XHOR).mx
-Novasports.News.gr
-Arena.Sport.4.HD.hr
-Eurosport.bg
-FoxSports506.au
+Discovery.Channel.(US).-.Eastern.Feed.us
+Investigation.Discovery.USA.-.Eastern.us
+Law.and.Crime.us
+National.Geographic.Wild.us
+National.Geographic.US.-.Eastern.us
+Animal.Planet.US.-.East.us
+66b646f9cd0d3100086af83c
+6408ae8f9b39550008caf94f
+62fb9844db5a4a0007ebc2a3
+64e561a4354251000823a0e0
+5f27bbe4779de70007a6d1c1
+65cf8ace332fec00081e7ea2
+66df8a29b25d2b0008fc5fe0
+6540ff2d770cf1000866b90a
+65775d29dfed030008cb3db2
+5812bd9f249444e05d09cc4e
+64240b7e283aa40008f79f84
+640a64bd73e013000893d4e0
+6565413e4261ca0008215320
+63f87df87533d80008ab9b4c
+5a4d35dfa5c02e717a234f86
+5d4af1803e7983b391d73b13
+64b82075e4391c0008c3c1fe
+64c0d697b0cf5c000824e5d9
+5ad8d1e9e738977e2c310925
+6000a6f4c3f8550008fc9b91
+AXN
+Lifetime
+Primetime
+TLC
+AFN
+HGTV
+BBCLifestyle
+Indosiar.HD.id
+ABC Australia.id
+AlQuran Kareem.id
+Aljazeera.id
+Animax.id
+Aniplus.id
+Antara.id
+ANTV.id
+Arirang.id
+AXN.id
+Bali TV.id
+BTV.id
+Bioskop Indonesia.id
+Cartoonito.id
+CCTV4.id
+Celestial Movie.id
+CGTN Documentary.id
+News Asia.id
+Chinese Drama.id
+Cinema World.id
+Cinemax.id
+Citra Dangdut.id
+Citra Drama.id
+CNBC Asia.id
+CNBC Indonesia.id
+CNN Indonesia.id
+CNN International.id
+Crime Investigation.id
+Curiosity.id
+Da Vinci Learning.id
+Daai TV.id
+Discovery Asia.id
+Discovery Asia.id
+Dreamworks.id
+Dunia anak.id
+Dunia Lain.id
+DW (English).id
+Euronews.id
+FashionTV.id
+Fight Sport.id
+Flik.id
+France 24.id
+Galaxy.id
+Galaxy Premium.id
+HBO.id
+HBO Family.id
+HBO Hits.id
+HBO Signature.id
+HGTV.id
+History.id
+Hits.id
+HITS Now.id
+Horee.id
+Horizon Sports.id
+iNews.id
+BTV.id
+IDX.id
+IMC.id
+Indosiar.id
+JakTV.id
+Jawa Pos TV.id
+JTV.id
+Kplus.id
+KBS World.id
+Kix.id
+Kompas TV.id
+Lifetime.id
+Love Nature.id
+MyKidz.id
+Maxstream.id
+MDTV.id
+Mentari TV.id
+Metro TV.id
+GTV.id
+MNC TV.id
+MOJI.id
+Moonbug.id
+MQTV.id
+MTATV.id
+MUI TV.id
+Musik Indonesia.id
+MyKidz.id
+NBA.id
+nhk world Japan.id
+Nickelodeon.id
+Antara.id
+Bioskop Indonesia.id
+Phoenix Chinese.id
+Phoenix InfoNews.id
+Prambors.id
+RCTI.id
+Rock Action.id
+Rodja TV.id
+Cartoon Network.id
+RTV.id
+SCTV.id
+Shenzen.id
+SPOTV.id
+SPOTV 2.id
+Studio Universal.id
+Thrill.id
+TLC.id
+Trans7.id
+TransTV.id
+TV One.id
+TV5Monde.id
+TV9 NU.id
+TVN.id
+TVN Movies.id
+TVRI.id
+UChannel.id
+Warner.id
+ZBioskop.id
+Zhejiang.id
+HITS
+BBCEarth
+474.unifi
+ArirangTV
 Paramount+.with.Showtime.-.Eastern.Feed.us
-NBC.Sports.Bay.Area.us
-Sky.Sport..257.it
-NBC.Sports.Boston.us
-Syfy.-.Eastern.Feed.us
-Polsat.Film.pl
-Canal9.dk
-Polsat.Sport.pl
-DAZN.3.es
-Sky.Sport.Tennis.it
-Disney.XD.USA.-.Eastern.Feed.us
-BBC.One.de
-HBO.Family.-.Eastern.Feed.us
-BBC.America.-.East.us
+Ch 5
+Ch 8
+Ch U
+Suria
+SGEM.id
+DiscoveryFamily.us
+Vasantham
+Class95
+RIA897FM
+CHN
+CHN
+CHN
+CHN
+CHN
+CHN
+CHN
+HITZ
+ERA
+SINAR
+RAAGA
+ROCK
+NASFM
+CHN
+CHN
+20(Italian).it
+3sat.de
+5.USA.uk
+6eren.dk
+A.and.E.US.-.Eastern.Feed.us
+ABC.(WABC).New.York,51- .NY.us
+ABC.(WABC).New.York,766- .NY.us
+ACC.Network.us
+AMC.-.Eastern.Feed.us
+AXN.Movies.HD.pt
+AXS.TV.USA.HD.us
+AdultSwim.com.Cartoon.Network.us
+Altitude.Sports.-.Denver.us
+American.Heroes.Channel.us
+Animal.Planet.US.-.East.us
+Antena.3.es
+Arena.Sport.1.HD.hr
+Arena.Sport.2.HD.hr
+Arena.Sport.3.HD.hr
+Arena.Sport.4.HD.hr
 ARTE.de
-Digi.Sport.3.ro
-NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us
-HGTV.USA.-.Eastern.Feed.us
-sportdigital.de
+Astro.Cricket.my
+Azteca.(XHOR).mx
+BBC.One.de
+BBC.America.-.East.us
+BBC.Four.HD.uk
+BBC.World.News.North.America.(BBCWN).us
+BBCOne.uk
+BBC.Three.HD.uk
+BBC.Two.HD.uk
+BET.-.Eastern.Feed.us
+Big.Ten.Network.us
+BNT.bg
+BNT2(src01).bg
+BNT.3.bg
+Bandsports.HD.br
+BarcaTV(Catalan).es
+beINSports.us
+BenficaTVMulticamaras(src01).pt
+Boomerang.us
+Bravo.USA.-.Eastern.Feed.us
+C.More.Fotboll.se
+C.More.Series.se
+C-SPAN.us
+CANAL+.MOTOGP.fr
+CANAL+.Sport.5.pl
+Canal9.dk
+CBC.(CBLT).Toronto,832- .ON.ca
+CBS.Sports.Network.USA.us
+CBS.(KCBS).Los.Angeles,52- .CA.us
+CBS.(WCBS).New.York,767- .NY.us
+CMT.US.-.Eastern.Feed.us
+CMTV.HD.pt
+CNBC.USA.us
+CNN.us
+COZITV.us
+CTV2.Toronto,838- .ON.ca
+CTV.(CFCN).Calgary,602- .AB.ca
+Canal.11.HD.pt
+CANAL+.Family.pl
+Canal+.Foot.fr
+CANAL+.FORMULA1.fr
+CANAL+.fr
+CANAL+.PREMIUM.pl
+CANAL+.Seriale.pl
+CANAL+.Sport.2.pl
+CANAL+.SPORT.fr
 CANAL+.Sport.pl
-MovistarGolf(Spanish).es
-NBC.(WNBC).New.York,.NY.us   
-Sky.Sport..251.it
-FanDuel.Sports.Network.Detroit.HD.us
-Ziggo.Sport.5.nl
+Canal+.Sport.360.fr
+Cartoon.Network.USA.-.Eastern.Feed.us
+Channel4.uk
+Channel.5.uk
+Cinemax.-.Eastern.Feed.us
+CleoTV.us
+Combate..br
+Comedy.Central.(US).-.Eastern.Feed.us
+Comet.us
+CookingChannel.us
+COSMOTE.Sport.1.HD.gr
+COSMOTE.Sport.2.HD.gr
+COSMOTE.Sport.3.HD.gr
+COSMOTE.Sport.4.HD.gr
+COSMOTE.Sport.5.HD.gr
+COSMOTE.Sport.6.HD.gr
+COSMOTE.Sport.7.HD.gr
+COSMOTE.Sport.8.HD.gr
+COSMOTE.Sport.9.HD.gr
+Court.TV.US.us
+Crime.and.Investigation.Network.USA.HD.us
+Cuatro.es
+Cytavision.Sports1.HD.cy
+Cytavision.Sports2.HD.cy
+Cytavision.Sports3.HD.cy
+Cytavision.Sports4.HD.cy
+Cytavision.Sports5.HD.cy
+Cytavision.Sports6.HD.cy
+Cytavision.Sports7.HD.cy
+DAZN.1.de
+DAZN.1.es
+DAZN.2.de
+DAZN.2.es
+DAZN.3.es
+DAZN.4.es
+DAZN.F1.es
+DAZN.LALIGA.es
+DAZN.LALIGA.2.es
+DR1.dk
+DR2.dk
+Kyk.NET.&amp;.Kie.HD.za
+Dave(src01).uk
+Destination.America.us
+Diema.bg
+Diema.Family.bg
+DIEMA.SPORT.2.bg
+DIEMA.SPORT.3.bg
+DIEMA.SPORT.bg
+Digi.Sport.1.ro
+Digi.Sport.2.ro
+Digi.Sport.3.ro
+Digi.Sport.4.ro
+Discovery.Channel.(US).-.Eastern.Feed.us
+Discovery.Family.Channel.us
+Discovery.Life.Channel.us
+CTV.Speed.ca
+Disney.-.Eastern.Feed.us
+Disney.Junior.USA.-.East.us
+Disney.XD.USA.-.Eastern.Feed.us
+E!.Entertainment.USA.-.Eastern.Feed.us
+E4.HD.uk
+ERT1.DTT-1.gr
+ESPN.1.nl
+ESPN.2.nl
+ESPN.br
+ESPN.Deportes.us
+ESPN.us
+ESPN.2.br
+ESPN2.us
+ESPN.3.br
+ESPN.4.br
+ESPN.U.us
+ESPN.News.us
+Eleven.Sports.1.pl
+ElevenSports1(src01).pt
+Eleven.Sports.2.pl
+ElevenSports2(src01).pt
+Eleven.Sports.3.pl
+ElevenSports3(src01).pt
+ElevenSports4(src01).pt
+ElevenSports5(src01).pt
+Eurosport.1.it
+Eurosport.1.pl
+Eurosport.1.es
+Eurosport.1.HD.uk
+Eurosport.2.it
+Eurosport.2.pl
+Eurosport.2.es
+Eurosport.2.HD.uk
+Eurosport.bg
+Eurosport1.fr
+Eurosport.2.bg
+Eurosport2.fr
+FETV.(Family.Entertainment.Television).us
+Fox.Deportes.us
+FOX.Soccer.Plus.us
+FoxLeague.au
+FoxSports503.au
+FoxFooty.au
+FoxSports505.au
+FoxSports506.au
+FOX.(KTTV).Los.Angeles,54- .CA.us
+FOX.(WNYW).New.York,768- .NY.us
+FUSE.TV.-.Eastern.feed.us
+FX.Movie.Channel.us
+FX.Networks.East.Coast.us
+FXX.USA.-.Eastern.us
+FanDuel.Sports.Network.SoCal.us
+Fanduel.Sports.Sun.us
+FashionTV(src01).uk
+The.Fight.Network.(United.States).(TFN).us
+Film4.HD.uk
+FilmBox.Premium.HD.pl
+Fox.Business.us
 FoxCricket.au
-USA.Network.-.East.Feed.us
-Sky.Thriller.HD.uk
-SkySportsPremierLeague.uk
+Fox.News.us
+Fox.Sports.1.us
+FoxSports2(Argentina).ar
+Fox.Sports.2.us
+FoxSports3(Argentina).ar
+FOXSPORTS.ar
+FoxSportsPremium(Spanish).mx
+FOXWeather.us
+Freeform.-.East.Feed.us
+GOL.PLAY.es
+Golf.Channel.USA.us
+Galavision.-.Eastern.Feed.us
+Galavision.-.Eastern.Feed.us
+Game.Show.Network.-.East.us
+Global.BC.ca
+Globo.Rio.br
+Globo.SP.HD.br
+GOLD(src01).uk
+Great.American.Family.us
+Grit.us
+HBO.Comedy.HD.-.East.us
+HBO.Family.-.Eastern.Feed.us
+HBO.Latino.(HBO.7).-.Eastern.us
+HBO.pl
+HBO.Signature.(HBO.3).-.Eastern.us
+HBO.-.Eastern.Feed.us
+HBO.Zone.HD.-.East.us
+HBO.2.-.Eastern.Feed.us
+HGTV.USA.-.Eastern.Feed.us
+HR.de
+Hallmark.Mystery.Eastern.-.HD.us
+HLN.us
+History.Channel.US.-.Eastern.Feed.us
+IFC.HDTV.(East).us
+ION..-.Eastern.Feed.us
+ITV1.HD.uk
+ITV2.HD.uk
+ITV3.HD.uk
+ITV4.HD.uk
+Investigation.Discovery.USA.-.Eastern.us
+Italia.1.it
+kabel.eins.de
+Kanal4.dk
+Kanal5.dk
+La.chaine.l’Équipe.fr
+LALIGA.TV.HYPERMOTION.es
+La.Sexta.es
+LA7.HD.it
+LALIGA.TV.HYPERMOTION.es
+Law.and.Crime.us
+Lifetime.Movies.-.East.us
+Lifetime.Network.US.-.Eastern.Feed.us
+LFCTV.HD.uk
+M6.fr
+MASN.us
+MavTV.USA.us
+MDR.de
+Me.TV.us
+MGM+.HDTV.(East).(MGM+HD).us
+MLB.Network.us
+MSG.-.Syracuse.us
+MSNBC.USA.us
+MTV.dk
+MTV.HD.uk
+MTV.USA.-.Eastern.Feed.us
+MUTV.HD.uk
+Magnolia.-.East.us
+Marquee.Sports.Network.us
+MAXSport1(src01).bg
+MAXSport2(src01).bg
+MAXSport3(src01).bg
+MAXSport4(src01).bg
+Monumental.Sports.Network.us
+Motor.Trend.HD.us
+Motowizja.pl
+MplusDEPORTES2(src01).es
+MplusDEPORTES3(src01).es
+MplusDEPORTES4(src01).es
+MplusDEPORTES(src01).es
+MovistarGolf(Spanish).es
+MovistarLaLiga(Spanish).es
+MovistarLigadeCampeones(Spanish).es
+MovistarPlusplus(src01).es
+NBA.TV.USA.us
+NBC.Sports.Bay.Area.us
+NBC.Sports.Boston.us
+NBC.Sports.California.us
+NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us
+NBC.Sports.us
+NBC.(WNBC).New.York,769- .NY.us   
+NDR.de
+New.England.Sports.Network.us
+NFL.Network.us
+NHL.Network.USA.us
+Nickelodeon.USA.-.East.Feed.us
+Nick.Jr..-.East.us
+National.Geographic.Wild.us
+National.Geographic.US.-.Eastern.us
+NewsNation.-.Eastern.Feed.us
+NewsMax.TV.us
+Nicktoons.-.East.us
+Noovo.(CFJP).Montreal,835- .QC.ca
 Nova.Sport.bg
+Novasports1.gr
+Novasports2.gr
+Novasports3.gr
+Novasports4.gr
+Novasports5.gr
+Novasports6.gr
+Novasports.News.gr
+Novasports.Premier.League.gr
+Novasports.Prime.gr
+Novasports.Start.gr
+Nova.TV.bg
+ONE.HD.il
+ONE2.HD.il
+Oprah.Winfrey.Network.USA.Eastern.us
+Oxygen.-.Eastern.Feed.us
+POP.-.East.us
+PTV.Sports.pk
+Paramount.Network.USA.-.Eastern.Feed.us
+Polsat.Film.pl
+Polsat.News.pl
+Polsat.pl
+Polsat.Sport.Extra.pl
+Polsat.Sport.News.HD.pl
+Polsat.Sport.pl
+Porto.Canal.HD.pt
+Premiere..br
+Prima.Sport.1.ro
+Prima.TV.ro
+ProSieben.de
+RDS2(src01).ca
+RDS.(Réseau.des.sports).ca
+RDS.Info.ca
+RMC.Sport.1.fr
+RMC.Sport.2.fr
+RTE1Network.uk
+RTE2.uk
+RTL.de
+RTL.7.nl
+RTP.1.HD.pt
+RTP.2.HD.pt
+RTP.3.HD.pt
+Racing.TV.uk
+Rai1.it
+Rai2.it
+Rai3.it
+RaiSport.it
+Rally.TV.de
+RealMadridTV(Spanish).es
+ReelzChannel.us
+Ring.BG.bg
+Root.Sports.Northwest.us
+S4C.uk
+SAT.1.de
+SBS.6.nl
+SEC.Network.us
+SIC.HD.pt
+SRFernsehen(src01).de
+SUPER.RTL.de
+SWR/SR.de
+Syfy.-.Eastern.Feed.us
+Science.us
+Showtime.2.-.Eastern.us
+Showtime.Extreme.-.Eastern.us
+Showtime.FamilyZone.(East).(SHOFe).us
+Showtime.Next.HD.-.Eastern.us
+SHOXBET.-.Eastern.us
+Showtime.Showcase.HD.-.East.us
+Paramount+.with.Showtime.-.Eastern.Feed.us
+sixx.de
+Sky.Arts.HD.uk
+Sky.Atlantic.HD.uk
+Sky.Sport..251.it
+Sky.Sport..252.it
+Sky.Sport..253.it
+Sky.Sport..254.it
+Sky.Sport..255.it
+Sky.Sport..256.it
+Sky.Sport..257.it
+Sky.Cinema.Action.it
+Sky.Action.uk
+SkyAnimationHD.uk
+Sky.Cinema.Collection.it
+Sky.Cinema.Comedy.it
+Sky.Comedy.Cinema.uk
+Sky.Cinema.Drama.it
+Sky.Drama.HD.uk
+Sky.Cinema.Uno.+24.it
+Sky.Cinema.Family.it
+Sky.Family.HD.uk
+Sky.Greats.uk
+Sky.Cinema.Hits.HD.uk
+Sky.Premiere.uk
+Sky.Cinema.Romance.it
+Sky.ScFi/HorHD.uk
+Sky.Cinema.Select.uk
+Sky.Cinema.Suspense.it
+Sky.Thriller.HD.uk
+Sky.Cinema.Uno.+24.it
+Sky.Cinema.Uno.it
+Sky.Comedy.HD.uk
+Sky.Crime.HD.uk
+Sky.HistoryHD.uk
+Sky.Serie.it
+Sky.Showcase.uk
+Sky.Sport.1.nz
+Sky.Sport.2.nz
+Sky.Sport24.it
+Sky.Sport.3.nz
+Sky.Sport.4.nz
+Sky.Sport.5.nz
+Sky.Sport.6.nz
+Sky.Sport.7.nz
+Sky.Sport.8.nz
+Sky.Sport.9.nz
+Sky.Sport.Arena.it
+Sky.Sport.Austria.1.HD.de
+Sky.Sport.Bundesliga.1.de
+Sky.Sport.Calcio.it
+Sky.Sport.F1.it
+Sky.Sport.Max.it
+Sky.Sport.Mix.de
+Sky.Sport.MotoGP.it
+Sky.Sport.Select.nz
+Sky.Sport.Tennis.it
+Sky.Sport.Top.Event.de
+Sky.Sport.Uno.it
+SkySp.Action.uk
+SkySportsArena.uk
+SkySp.Cricket.uk
+SKY.Sport.F1.de
+SkySp.F1.uk
+SkySp.Fball.uk
+Sky.Sport.Golf.it
+SkySp.Golf.uk
+SkySp.Mix.HD.uk
+SkySpMainEv.uk
+SkySp.News.HD.uk
+SkySportsPremierLeague.uk
+SkySp.Racing.uk
+Sky.Sport.Tennis.de
+SkySp.Tennis.HD.uk
+Sky.Sport.Uno.it
+Sky.Witness.HD.uk
+Smithsonian.Channel.USA.HD.us
+Space.City.Home.Network.us
+Spectrum.Sportsnet.Lakers.us
+SPORTV.br
+SPORTV.2.br
+SPORTV.3.br
+Sport.1.HD.il
+Sport.2.HD.il
+Sport.3.HD.il
+Sport.4.HD.il
+Sport.5.Gold.(57).il
+Sport.5.HD.(55).il
+Sport.5.Live.HD.(58).il
+Sport.5+.HD.(56).il
+Sport.5.Stars.HD.(59).il
+SPORT.TV1.HD.pt
+SPORT.TV2.HD.pt
+SPORT.TV3.HD.pt
+SPORT.TV4.HD.pt
+SPORT.TV5.HD.pt
+SPORT.TV6.HD.pt
+SPORT1.de
+SPORT1+.de
+sportdigital.de
 Sporting.TV.HD.pt
-CBC.(CBLT).Toronto,.ON.ca
+SNY:.SportsNet.New.York.(Comcast).us
+SportsNet.Pittsburgh.us
+Sportsnet.360.ca
+Sportsnet.(East).-.Satellite/Digital.ca
+Sportsnet.One.ca
+Sportsnet.(Ontario).ca
+Sportsnet.(West).-.Satellite/Digital.ca
+Sportsnet.World.ca
+FOX.Channel.bg
+STAR.SPORTS.1.in
+STAR.SPORTS.1.HINDI.in
+Starz.-.Eastern.us
+SundanceTV.USA.-.East.us
+TBS.-.East.us
+Turner.Classic.Movies.USA.us
+TF1.fr
+TLC.USA.-.Eastern.us
+TMC.(US).-.Eastern.Feed.us
+TNT(Portuguese).br
+TNT.Sports.1.HD.uk
+TNT.Sports.2.HD.uk
+TNT.Sports.3.HD.uk
+TNT.Sports.4.HD.uk
+TNT.-.Eastern.Feed.us
+TSN1.ca
+TSN2.ca
+TSN3.ca
+TSN4.ca
+TSN5.ca
+TUDN.us
+TV.One.us
+TV2bornholm(src01).dk
+TV2(src01).dk
+TV2Sport(src01).dk
+TV2Zulu(src01).dk
+TV3Max(src01).dk
+TV3Sport1(src01).dk
+TV3plus(src01).dk
+TVA.Sports.ca
+TVA.Sports.3.ca
+LA.1.es
+LA.2.es
+TVI.HD.pt
+TVI.Reality.HD.pt
+TV.Land.-.Eastern.us
+TVN.HD.pl
+TVN.24.pl
+TVO.(TV.Ontario).HD.ca
+TVP.Info.pl
+TVP.Sport.pl
+TVP.1.pl
+TVP.2.pl
+Canal.TyC.Sports.ar
+TeenNick.-.Eastern.us
+Telecinco.es
+Teledeporte.es
+Telemundo..-.Eastern.Feed.us
+The.Tennis.Channel.us
+Food.Network.USA.-.Eastern.Feed.us
+Hallmark.-.Eastern.Feed.us
+The.Weather.Channel.us
+TheTravelChannel.us
+truTV.USA.-.Eastern.us
+USA.Network.-.East.Feed.us
+UniMás..-.Network.Pacific.us
+Univision.-.Eastern.Feed.us
+V.Film.Family.se
+V.Sport.Motor.se
+VH1.-.Eastern.Feed.us
+VICE.us
+VTV.+.HD.uy
+Veronica.nl
+Viaplay1(src01).uk
+Viaplay2(src01).uk
+ViaplayXtra.uk
+vodasport(src01).is
+WDR.de
+WEtv.us
+WWE.Network.us
+Willow.Cricket.HDTV.(WILLOWHD).us
+Willow.Xtra.us
+YES.Network.us   
+yes.Movies.Action.il
+yes.Movies.Comedy.il
+yes.Movies.Kids.il
+ZDFinfo.de
+Ziggo.Sport.2.nl
+Ziggo.Sport.4.nl
+Ziggo.Sport.5.nl
+Ziggo.Sport.nl
+bTVAction(src01).bg
+bTV.bg
+BTV.Lady.bg
+beIN.SPORTS.1.fr
+Beinsports.tr
+beIN.SPORTS.2.fr
+Beinsports.2.tr
+beIN.SPORTS.3.fr
+Beinsports.3.tr
+Beinsports.4.tr
+beINSports1.au
+beINSports2.au
+beINSports3.au
+beIN_SPORTS_XTRA1_Digital_Mono_EN.bein
+beIN_SPORTS_XTRA2_Digital_Mono_EN.bein
+beIN.SPORTS.MAX.10.fr
+beIN.SPORTS.MAX.4.fr
+beIN.SPORTS.MAX.5.fr
+beIN.SPORTS.MAX.6.fr
+beIN.SPORTS.MAX.7.fr
+beIN.SPORTS.MAX.8.fr
+beIN.SPORTS.MAX.9.fr
+A.and.E.HD.East.us2
+ABC.National.Feed.us
+ABC.(WABC).New.York,51- .NY.us
+ACC.Network.us2
+AMC.HD.us2
+AXS.TV.us2
+AdultSwim.com.Cartoon.Network.us2
+Altitude.Sports.us2
+American.Heroes.Channel.HD.us2
+Animal.Planet.HD.us2
+BBC.America.HD.us2
+BBC.News.(North.America).HD.us2
+BET.HD.us2
+Big.Ten.Network.HD.us2
+beIN.Sports.USA.HD.us2
+Boomerang.us2
+Bravo.HD.us2
+CSPAN.us2
+CBS.Sports.Network.HD.us2
+CBS.Sports.Network.HD.us2
+CBS.(KCBS).Los.Angeles,52- .CA.us
+CBS.(WCBS).New.York,767- .NY.us
+CMT.HD.us2
+CNBC.HD.us2
+CNN.HD.us2
+COZI.TV.us2
+CW.Plus.East.us2
+CW.us2
+Cartoon.Network.HD.us2
+Cinemax.HD.us2
+Cleo.TV.HD.us2
+Comedy.Central.HD.us2
+Comet.us2
+Cooking.Channel.HD.us2
+Court.TV.us2
+Crime.and.Investigation.Network.HD.us2
+Destination.America.HD.us2
+Discovery.Channel.HD.us2
+Discovery.Family.Channel.HD.us2
+Discovery.Life.Channel.us2
+Disney.Channel.HD.us2
+Disney.Junior.HD.us2
+Disney.XD.HD.us2
+E!.Entertainment.Television.HD.us2
+ESPN.Deportes.HD.us2
+ESPN.HD.us2
+ESPN2.HD.us2
+ESPNU.HD.us2
+ESPNEWS.HD.us2
+Family.Entertainment.Television.us2
+Fox.Deportes.HD.us2
+Fox.Soccer.Plus.HD.us2
+FOX.(KTTV).Los.Angeles,54- .CA.us
+FOX.(WNYW).New.York,768- .NY.us
+Fuse.HD.us2
+FX.Movie.Channel.HD.us2
+FX.HD.us2
+FXX.HD.us2
+FanDuel.Sports.Network.SoCal.us
+Fanduel.Sports.Sun.us
+Fight.Network.us2
+Fox.Business.HD.us2
+Fox.News.Channel.HD.us2
+FS1.HD.us2
+FS2.HD.us2
+FOXWeather.us2
+Freeform.HD.us2
+Golf.Channel.HD.us2
+Galavision.Cable.Network.HD.us2
+Galavision.Cable.Network.HD.us2
+Game.Show.Network.HD.us2
+Great.American.Family.HD.us2
+Grit.us2
+HBO.Comedy.HD.us2
+HBO.Family.HD.us2
+HBO.Latino.HD.us2
+HBO.Signature.HD.us2
+HBO.East.us2
+HBO.Zone.HD.us2
+HBO2.HD.us2
+Home.and.Garden.Television.HD.us2
+Hallmark.Mystery.HD.us2
+HLN.HD.us2
+History.HD.us2
+IFC.HD.us2
+ION.Television.HD.us2
+Investigation.Discovery.HD.us2
+Law.and.Crime.us2
+LMN.HD.us2
+Lifetime.HD.us2
+MASN.-.Mid.Atlantic.Sports.Network.us2
+MavTV.USA.us2
+Me.TV.Network.us2
+MGM+.HD.us2
+MLB.Network.HD.us2
+MSG.National.us2
+MSNBC.HD.us2
+MTV.-.Music.Television.HD.us2
+My.Network.us2
+Magnolia.Network.HD.us2
+Marquee.Sports.Network.HD.us2
+Monumental.Sports.Network.HD.us2
+MOTORTREND.HD.us2
+NBA.TV.HD.us2
+NBC.Sports.Bay.Area.HD.us2
+NBC.Sports.Boston.HD.us2
+NBC.Sports.California.SAT.us2
+NBC.Sports.Philadelphia.HD.us2
+NBC.Sports.Washington
+NBC.East.Stream.us2
+NBC.Philadelphia.(Live.Stream).us2
+NBC.(WNBC).New.York,769- .NY.us   
+New.England.Sports.Network.HD.us2
+NFL.Network.HD.us2
+NHL.Network.HD.us2
+Nickelodeon.HD.us2
+Nick.Jr.HD.us2
+National.Geographic.Wild.HD.us2
+National.Geographic.HD.us2
+NewsNation.us2
+Newsmax.TV.HD.us2
+Nicktoons.us2
+Oprah.Winfrey.Network.HD.us2
+Oxygen.True.Crime.HD.us2
+PDC.TV
+POP.HD.us2
+Pac-12.Network.USA
+Paramount.Network.HD.us2
+Rally.TV.de
+ReelzChannel.HD.us2
+Root.Sports.Northwest.HD.us2
+SEC.Network.HD.us2
+Syfy.HD.us2
+Science.Channel.HD.us2
+Showtime.2.HD.us2
+Showtime.Extreme.HD.us2
+Showtime.Familyzone.HD.us2
+Showtime.Next.HD.us2
+SHO.x.BET.HD.us2
+Showtime.Showcase.HD.us2
+Paramount+.with.Showtime.HD.us2
+Smithsonian.HD.Network.us2
+Space.City.Home.Network.HD.us2
+Spectrum.SportsNet.Lakers.HD.us2
+SNY.SportsNet.New.York.HD.us2
+SportsNet.Pittsburgh.HD.us2
+Sportsnet.(Ontario).ca
+Sportsnet.(West).-.Satellite/Digital.ca
+Sportsnet.World.ca
+Starz.HD.us2
+SundanceTV.HD.us2
+TBS.HD.us2
+Turner.Classic.Movies.HD.us2
+TLC.HD.(US).us2
+The.Movie.Channel.HD.us2
+TNT.HD.us2
+TUDN.us2
+TV.ONE.HD.us2
+TV.Land.HD.us2
+Teen.Nick.us2
+Telemundo.Satellite.Feed.us2
+Tennis.Channel.HD.us2
+Food.Network.HD.us2
+Hallmark.Channel.HD.us2
+The.Weather.Channel.HD.us2
+The.Travel.Channel.HD.us2
+truTV.HD.us2
+USA.Network.HD.us2
+UniMas.us2
+Univision.Network.HD.us2
+VH1.HD.us2
+Vice.HD.us2
+WE.tv.HD.us2
+WWE.Network.us2
+Willow.Cricket.HD.us2
+Willow.Xtra.us2
+Yes.Network.us2
+5.USA.uk
+BBC.Four.HD.uk
+BBCOne.uk
+BBC.Three.HD.uk
+BBC.Two.HD.uk
+Channel4.uk
+Channel.5.uk
+Dave(src01).uk
+E4.HD.uk
+Eurosport.1.HD.uk
+Eurosport.2.HD.uk
+FashionTV(src01).uk
+Film4.HD.uk
+GOLD(src01).uk
+ITV1.HD.uk
+ITV2.HD.uk
+ITV3.HD.uk
+ITV4.HD.uk
+LFCTV.HD.uk
+MTV.HD.uk
+MUTV.HD.uk
+RTE1Network.uk
+RTE2.uk
+Racing.TV.uk
+S4C.uk
+Sky.Arts.HD.uk
+Sky.Atlantic.HD.uk
+Sky.Action.uk
+SkyAnimationHD.uk
+Sky.Comedy.Cinema.uk
+Sky.Drama.HD.uk
+Sky.Family.HD.uk
+Sky.Greats.uk
+Sky.Cinema.Hits.HD.uk
+Sky.Premiere.uk
+Sky.ScFi/HorHD.uk
+Sky.Cinema.Select.uk
+Sky.Thriller.HD.uk
+Sky.Comedy.HD.uk
+Sky.Crime.HD.uk
+Sky.HistoryHD.uk
+Sky.Showcase.uk
+SkySp.Action.uk
+SkySportsArena.uk
+SkySp.Cricket.uk
+SkySp.F1.uk
+SkySp.Fball.uk
+SkySp.Golf.uk
+SkySp.Mix.HD.uk
+SkySpMainEv.uk
+SkySp.News.HD.uk
+SkySportsPremierLeague.uk
+SkySp.Racing.uk
+SkySp.Tennis.HD.uk
+Sky.Witness.HD.uk
+TNT.Sports.1.HD.uk
+TNT.Sports.2.HD.uk
+TNT.Sports.3.HD.uk
+TNT.Sports.4.HD.uk
+Viaplay1(src01).uk
+Viaplay2(src01).uk
+ViaplayXtra.uk
+170
+info
+info
+info
+info
+Astro Warna HD.sg
+Astro Sensasi HD.sg
+AstroGrandstand
+108
+DidikTVKPM
+TV3
+TV9
+pesonahd.unifi
+salamhd.unifi
+inspirasi.unifi
+spotv.unifi
+spotv2.unifi
+unifisports1.unifi
+beinsports.unifi
+beinsports2.unifi
+beinsports3.unifi
+beinsports4.unifi
+duniasinemahd.unifi
+siar.unifi
+degup.unifi
+hbohd.unifi
+hbohits.unifi
+hbofamily.unifi
+cinemax.unifi
+tv1
+tv2
+tv3
+didiktv
+8tv
+tv9
+salamhd
+tvalhijrahhd
+sensasi
+inspirasi
+degup
+siar
+tvs
+duniasinemahd
+pesonahd
+tvnmovieshd
+tvnhd
+tvbjade
+tvbxinghe
+cctv4hd
+phoenixhongkong
+seti
+celestialmovies
+celestialclassicmovies
+zeethirai
+sonyyay
+zeetamilhd
+zeecinemahd
+hbohd
+hbohits
+hbofamily
+cinemax
+hitsmovies
+warnertv
+hitsnow
+axn
+hits
+kplus
+animax
+rockentertainment
+rockaction
+bbcearthhd
+lovenaturehd
+hgtv
+bbclifestylehd
+asianfoodnetwork
+dreamworkshd
+moonbugkids
+nickjr
+cbeebieshd
+nickelodeon
+cartoonnetwork
+bbcworldnewshd
+aljazeera
+cgtnhd
+channelnewsasia
+euronews
+bernamatv
+parlimenmalaysia
+abcaustralia
+dw
+nhkworldjapan
+unifisports1
+spotv
+spotv2
+beinsports
+beinsports2
+beinsports3
+beinsports4
+AstroRia
+AstroPrima
+AstroCitra
+AstroBoo
+AstroRania
+AstroAura
+AstroCeria
+AstroArenaBola
+AstroArenaBola2
+AstroPremierLeague
+AstroPremierLeague2
+AstroBadminton
+813.astro
+818.astro
+819.astro
+308.astro
