@@ -83,7 +83,7 @@ urls = [
     "https://www.open-epg.com/files/indonesia5.xml.gz",
     "https://www.open-epg.com/files/indonesia6.xml.gz",
     "https://viplink.biz/epgg.xml",
-    "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
     "https://www.open-epg.com/files/singapore3.xml.gz",
     "https://viplink.biz/malaysia2_fixed.xml",
