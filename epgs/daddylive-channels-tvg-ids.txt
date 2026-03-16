@@ -42,7 +42,7 @@ beINSports
 AstroCricket
 AstroCricketPlus
 PremierSports
-GolfChannel
+Golf
 Hub Premier 2 (4K).sg
 Hub Premier 1.sg
 Hub.Premier.2.sg
@@ -107,7 +107,7 @@ CTIAsia
 iQIYI
 TVBXingHe
 TVBSAsia
-PhoenixChineseChannel
+PhoenixChinese
 AstroHuaHeeDai
 CCTV4
 AstroAOD352
@@ -175,7 +175,7 @@ Showtime.Showcase.HD.us2
 Paramount.Network.HD.us2
 Syfy.HD.us2
 Cinemax.HD.us2
-FX.Movie.Channel.HD.us2
+FX.Movie..HD.us2
 HBO.Comedy.HD.us2
 HBO Family  Eastern Feed HD.us
 MGM+.HD.us2
@@ -668,8 +668,8 @@ CANAL+.SPORT.fr
 CANAL+.Sport.pl
 Canal+.Sport.360.fr
 Cartoon.Network.USA.-.Eastern.Feed.us
-Channel4.uk
-Channel.5.uk
+Channel 5 HD.uk
+Channel 4 HD.uk
 Cinemax.-.Eastern.Feed.us
 CleoTV.us
 Combate..br
@@ -754,7 +754,7 @@ Eurosport.1.HD.uk
 Eurosport.2.it
 Eurosport.2.pl
 Eurosport.2.es
-Eurosport.2.HD.uk
+Eurosport 2 HD.uk
 Eurosport.bg
 Eurosport1.fr
 Eurosport.2.bg
@@ -1350,8 +1350,7 @@ Channel4.uk
 Channel.5.uk
 Dave(src01).uk
 E4.HD.uk
-Eurosport.1.HD.uk
-Eurosport.2.HD.uk
+British Eurosport HD.uk
 FashionTV(src01).uk
 Film4.HD.uk
 GOLD(src01).uk
